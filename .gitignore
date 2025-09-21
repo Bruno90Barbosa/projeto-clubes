@@ -1,0 +1,17 @@
+# Excluir arquivos de compilação e pastas temporárias
+bin/
+obj/
+
+# Excluir arquivos de usuário do Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Excluir pacotes NuGet
+packages/
+
+# Excluir executáveis
+*.exe
+*.dll
+*.pdb
